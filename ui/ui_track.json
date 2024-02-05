@@ -1,0 +1,12 @@
+ {
+	"name": "JCCA",
+	"description": "JCCA Racetrack",
+	"tags" : ["realworld","track","circuit","Usa"],
+	"geotags": ["lat", "lon"],
+	"country": "USA",
+	"city": "New York",
+	"length": "905",
+	"width": "15",
+	"pitboxes": "18",
+	"run": "DRIFT"
+}
